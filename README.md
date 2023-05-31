@@ -18,7 +18,6 @@ Intel Corporation | Bruce Cherniak |
 Guangdong OPPO Mobile Telecommunications Corp., Ltd. | Chen Li | 
 Amazon Web Services, Inc. | Nick Lawson | 
 Tencent Holdings Limited | Fenquan Wang | 
-Niantic | Phil Keslin |
 
 ## Projects
 [Open 3D Engine](https://www.o3de.org/)
