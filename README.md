@@ -16,7 +16,7 @@ Huawei Technologies Co., Ltd | Tobias Franke
 Epic Games, Inc | Thomas Conrad
 Intel Corporation | Bruce Cherniak | 
 Guangdong OPPO Mobile Telecommunications Corp., Ltd. | Chen Li | 
-Amazon Web Services, Inc. | Nick Lawson | 
+Amazon Web Services, Inc. | Mike Balfour | 
 Tencent Holdings Limited | Fenquan Wang | 
 
 ## Projects
