@@ -1,0 +1,38 @@
+# 11 July 2024 - TAC Meeting Notes
+
+## Attendees
+### Voting Members
+- [x] Sid Moudgil, AWS - TAC Chair
+- [x] Nick Lawson, O3DE TSC Chair
+- [ ] [Person], OPPO
+- [ ] [Person], Huawei
+### Observers
+- Joe Bryant, O3DF
+- Naomi Washington, O3DF
+
+## Agenda
+- O3DF Project Lifecycle Document [[Link]([url](https://docs.google.com/document/d/1RlEKawh7tlmly_j7y5x8Ls0z-deyabwyCzudJv7a6f0/view))]
+
+## O3DF Project Lifecycle Document
+
+Bryant updated the project lifecycle document because there was confusion about what took place in each stage. He walked the TAC through the changes he made.
+
+For a project to be approved, it needs two-thirds approval from the TAC and then approval from the governing board.
+
+TAC members were asked to conduct a second round of reviews on the updated Project Lifecycle Document by Friday, July 19th, aiming for implementation by mid-August.
+
+## Open Discussion
+
+Imagination Technologies seeks to open-source and host four tools, with three already approved. While in the same domain as O3DE, these tools are not part of the engine code and will be maintained separately by IT engineers. Bryant emphasized that these projects will operate independently of O3DE, with their own TSC, Working Groups, etc.
+
+Discussion ensued about potential overlap with ASWF. However, it was noted that ASWF primarily focuses on film and video, with minimal overlap in gaming. Bryant acknowledged the valuable processes in place at ASWF and intends to discuss O3DE's use of opencolorio and openimageio with the ASWF TAC.
+
+The discussion then turned to QT licensing and its implications for runtime use. It was clarified that the license permits linking QT as DALs and only mandates opening changes made to QT itself. However, runtime use remains prohibited due to licensing restrictions. This topic will be added to the agenda for the next O3DE TSC meeting.
+
+Further discussions revolved around licensing, patent licensing, and source code.
+
+
+## Action Items
+- [] Reach out to Opencolorio and have O3DE added as an engine to their website. 
+- [] Speak with Colin regarding marketplace
+
