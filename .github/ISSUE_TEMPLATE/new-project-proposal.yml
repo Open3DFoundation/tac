@@ -5,6 +5,15 @@ assignees:
   - Ulrick28
   - Naomi-Wash
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for looking to bring your project to the Open 3D Foundation.
+        Pleas put the project's name in the title above, replacing PROJECT NAME,
+        and then answer the questions below to have this project proposal added
+        to the agenda at a future TAC meeting for consideration as a new project. 
+        Please refer to the guidance in the Project Lifecycle. 
+        Please also note you must be available to lead this discussion at a TAC meeting.
   - type: textarea
     id: project-name
     attributes:
