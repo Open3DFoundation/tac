@@ -4,6 +4,7 @@ title: 'New Project Proposal - PROJECT NAME'
 assignees: 
   - Ulrick28
   - Naomi-Wash
+body:
   - type: textarea
     id: project-name
     attributes:
