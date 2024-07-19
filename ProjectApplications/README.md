@@ -1,3 +1,3 @@
-# Open 3D Foundation TAC Project Applications
+# Open 3D Foundation TAC Project Proposals
 
-Projects should submit applications as an issue using the ProjectApplication template
+Projects should submit applications as an issue using the ProjectProposal template
