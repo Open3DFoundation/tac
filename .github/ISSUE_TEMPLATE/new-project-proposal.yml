@@ -5,7 +5,7 @@ assignees:
   - Ulrick28
   - Naomi-Wash
 body:
-  - type: markdown
+- type: markdown
     attributes:
       value: |
         Thank you for looking to bring your project to the Open 3D Foundation.
