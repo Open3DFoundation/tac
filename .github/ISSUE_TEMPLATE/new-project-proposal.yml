@@ -20,7 +20,5 @@ body:
     label: Project Name
     description: "Please describe the purpose and function of the project, its origin,
     and its significance tp to the ecosystem"
-    validations:
-      required: true
 
     
