@@ -28,7 +28,32 @@ body:
     description: "Please describe the purpose and function of the project, its origin, and its
     significance to the ecosystem"
   validations:
-    required: true    
-  
+    required: true
+- type: dropdown
+  id: project-stage
+  attributes:
+    label: Proposed Project Stage
+    options:
+      - Incubation
+      - Growth
+      - Impact
+      - Emeritus
+  validations:
+    required: true
+- type: textarea
+  id: project-alignment
+  attributes:
+    label: Project Alignment
+    description: "Please explain how this project is aligned with the mission of the Open 3D Foundation?
+    https://o3df.org/about/overview/"
+  validations:
+    required: true
+- type: textarea
+  id: code-of-conduct
+  attributes:
+    label: Code of Conduct
+    description: "Provide a link to current Code of Conduct if one is adopted already"
+  validations:
+    required: true
 
     
