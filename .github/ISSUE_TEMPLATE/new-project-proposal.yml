@@ -58,8 +58,7 @@ body:
 - type: input
   id: tac-sponsor
   attributes:
-    label: Sponsor helps mentor projects - if the project doesn't currently have a sponsor, the TAC
-    will appoint one as part of the approval process
+    label: Sponsor helps mentor projects - if the project doesn't currently have a sponsor, the TAC will appoint one as part of the approval process
   validations:
     required: true
 - type: textarea
