@@ -15,13 +15,6 @@ body:
       Please refer to the guidance in the Project Lifecycle. 
       Please also note you must be available to lead this discussion at a TAC meeting.
 - type: textarea
-  id: project-name
-  attributes:
-    label: Project Name
-    description: "Please provide the project name"
-  validations:
-    required: true
-- type: textarea
   id: project-description
   attributes:
     label: Project Description
