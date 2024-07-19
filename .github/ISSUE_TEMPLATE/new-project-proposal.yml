@@ -55,10 +55,11 @@ body:
     description: "Provide a link to current Code of Conduct if one is adopted already"
   validations:
     required: true
-- type: input
+- type: textarea
   id: tac-sponsor
   attributes:
-    label: Sponsor helps mentor projects - if the project doesn't currently have a sponsor, the TAC will appoint one as part of the approval process
+    label: Sponsor from TAC
+    description: Sponsor helps mentor projects - if the project doesn't currently have a sponsor, the TAC will appoint one as part of the approval process
   validations:
     required: true
 - type: textarea
@@ -72,5 +73,67 @@ body:
   id: source-control
   attributes:
     label: What tool or platform is utilized for source control (GitHub, etc.), and what is the location (e.g., URL)?
+  validations:
+    required: true
+- type: textarea
+  id: external-dependencies
+  attributes:
+    label: What are the external dependencies of the project, and what are the licenses of those dependencies?
+  validations:
+    required: true
+- type: textarea
+  id: issue-tracker
+  attributes:
+    label: What tool or platform is leveraged by the project for issue tracking?
+  validations:
+    required: true
+- type: textarea
+  id: release-methodology
+  attributes:
+    label: What is the project’s release methodology and cadence?
+  validations:
+    required: true
+- type: textarea
+  id: project-roles-and-leadership
+  attributes:
+    label: What leadership and roles does the project have?
+    description: Describe the project's leadership team and decision-making process. What roles does the project have (e.g. maintainers, committers)? Who are the current core committers of the project or where can a list of committers be found?
+  validations:
+    required: true
+- type: textarea
+  id: financial-sponsorship
+  attributes:
+    label: Are there existing financial sponsorships?
+  validations:
+    required: true
+- type: textarea
+  id: infrastructure
+  attributes:
+    label: Detail the infrastructure needs or requests
+  validations:
+    required: true
+- type: textarea
+  id: communication-channels
+  attributes:
+    label: What are the project's official communication channels?
+    description: List of the project's official communication channels (mailing lists, slack, discord, irc)
+  validations:
+    required: true
+- type: textarea
+  id: website
+  attributes:
+    label: What is the project’s website? Is there a wiki?
+  validations:
+    required: true
+- type: textarea
+  id: social-media
+  attributes:
+    label: What social media accounts are used by the project?
+  validations:
+    required: true
+- type: textarea
+  id: trademarks
+  attributes:
+    label: Are any trademarks, registered or unregistered, leveraged by the project? Have any trademark registrations been filed by the project or any third party anywhere in the world?
   validations:
     required: true
