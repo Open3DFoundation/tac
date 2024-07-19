@@ -18,9 +18,17 @@ body:
   id: project-name
   attributes:
     label: Project Name
-    description: "Please describe the purpose and function of the project, its origin,
-    and its significance to the ecosystem"
+    description: "Please provide the project name"
   validations:
     required: true
+- type: textarea
+  id: project-description
+  attributes:
+    label: Project Description
+    description: "Please describe the purpose and function of the project, its origin, and its
+    significance to the ecosystem"
+  validations:
+    required: true    
+  
 
     
