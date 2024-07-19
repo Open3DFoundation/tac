@@ -113,7 +113,7 @@ body:
   id: openssf-best-practices-badge
   attributes:
     label: Does the project have an OpenSSF Best Practices Badge? Do you foresee any challenges in obtaining one?
-    description: Read more about the OpenSSF Best Practices Badge at https://bestpractices.coreinfrastucture.org
+    description: Read more about the OpenSSF Best Practices Badge at https://www.bestpractices.dev/en
   validations:
     required: true
 - type: textarea
