@@ -16,7 +16,7 @@ body:
         Please also note you must be available to lead this discussion at a TAC meeting.
 - type: textarea
   id: project-name
-   attributes:
+  attributes:
     label: Project Name
     description: | 
       Please provide the project name.
