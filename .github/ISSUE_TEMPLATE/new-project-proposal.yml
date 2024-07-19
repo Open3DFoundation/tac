@@ -94,6 +94,10 @@ body:
   validations:
     required: true
 - type: textarea
+  id: governance
+  attributes:
+    label: Link to any documented governance practices 
+- type: textarea
   id: financial-sponsorship
   attributes:
     label: Are there existing financial sponsorships?
@@ -103,6 +107,13 @@ body:
   id: infrastructure
   attributes:
     label: Detail the infrastructure needs or requests
+  validations:
+    required: true
+- type: textarea
+  id: openssf-best-practices-badge
+  attributes:
+    label: Does the project have an OpenSSF Best Practices Badge? Do you foresee any challenges in obtaining one?
+    description: Read more about the OpenSSF Best Practices Badge at https://bestpractices.coreinfrastucture.org
   validations:
     required: true
 - type: textarea
