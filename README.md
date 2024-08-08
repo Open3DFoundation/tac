@@ -12,10 +12,7 @@ The Open 3D Foundation TAC is the technical governing body of the Open 3D Founda
 | Company | Name | Term |
 | --- | --- | --- |
 Huawei Technologies Co., Ltd | Tobias Franke
-Epic Games, Inc | Thomas Conrad
-Guangdong OPPO Mobile Telecommunications Corp., Ltd. | Chen Li | 
 Amazon Web Services, Inc. | Sid Moudgils | 
-Tencent Holdings Limited | Fenquan Wang | 
 
 ## Projects
 [Open 3D Engine](https://www.o3de.org/)
