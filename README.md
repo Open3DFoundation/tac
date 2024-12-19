@@ -12,7 +12,8 @@ The Open 3D Foundation TAC is the technical governing body of the Open 3D Founda
 | Company | Name | Term |
 | --- | --- | --- |
 Huawei Technologies Co., Ltd | Tobias Franke
-Amazon Web Services, Inc. | Sid Moudgils | 
+Amazon Web Services, Inc. | Sid Moudgils 
+Individual | Nick Lawson
 
 ## Projects
 [Open 3D Engine](https://www.o3de.org/)
